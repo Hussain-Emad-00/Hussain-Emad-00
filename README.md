@@ -36,11 +36,12 @@ Angular and NestJS on the frontend and backend, TypeScript everywhere. I care ab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hussain-Emad-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&icon_color=00D4FF&text_color=7B90C4&rank_icon=github&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Emad-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&text_color=7B90C4&langs_count=6" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=Hussain-Emad-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&icon_color=00D4FF&text_color=7B90C4&rank_icon=github&include_all_commits=true&count_private=true" height="350px" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=Hussain-Emad-00&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=1E90FF&ring=00D4FF&fire=FFB800&currStreakLabel=00D4FF&sideLabels=7B90C4&dates=7B90C4" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hussain-Emad-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&text_color=7B90C4&langs_count=6" height="350px" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussain-Emad-00&theme=tokyo-night&hide_border=true&bg_color=0A0F1E&color=7B90C4&line=1E90FF&point=00D4FF&area=true&area_color=1E90FF" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Hussain-Emad-00&theme=tokyonight&hide_border=true&background=0A0F1E&stroke=1E90FF&ring=00D4FF&fire=FFB800&currStreakLabel=00D4FF&sideLabels=7B90C4&dates=7B90C4" height="350px" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussain-Emad-00&theme=tokyo-night&hide_border=true&bg_color=0A0F1E&color=7B90C4&line=1E90FF&point=00D4FF&area=true&area_color=1E90FF" height="350px" width="100%" />
 
 </div>
