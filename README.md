@@ -56,6 +56,18 @@ The one public codebase worth reading is [Space Tourism](https://github.com/Huss
 
 Everything else you'll find under these repos is practice: Frontend Mentor challenges, an Angular fundamentals course. That's what reps looked like before anyone paid me to write code. No plans to hide them.
 
+<details>
+<summary><b>The reps, if you want to dig</b></summary>
+
+<br>
+
+- [REST-Countries](https://github.com/Hussain-Emad-00/REST-Countries) — the classic API challenge: search, filter, detail views. The meatiest of the batch.
+- [ng-fundamentals](https://github.com/Hussain-Emad-00/ng-fundamentals) — an Angular course, worked through to the end.
+- [Conference-ticket-generator](https://github.com/Hussain-Emad-00/Conference-ticket-generator) — form validation and a generated ticket preview.
+- [Browser-extensions-manager-UI](https://github.com/Hussain-Emad-00/Browser-extensions-manager-UI) — toggles, filters, and more state than the name suggests.
+
+</details>
+
 <br>
 
 ### The rest of it
