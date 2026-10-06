@@ -10,6 +10,12 @@
 
 <br>
 
+<a href="https://readme-typing-svg.herokuapp.com/?lines=Angular+on+the+front.+NestJS+on+the+back.;TypeScript+holds+the+seams+together.;Mostly+fixing+things+that+weren%27t+broken." target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular+on+the+front.+NestJS+on+the+back.;TypeScript+holds+the+seams+together.;Mostly+fixing+things+that+weren%27t+broken.&center=true&vCenter=true&width=460&height=45&color=1E90FF&size=16" alt="Typing animation" />
+</a>
+
+<br>
+
 [![Email](https://img.shields.io/badge/-hussainemad701%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hussainemad701@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hussain-emad-123486355)
 [![Portfolio](https://img.shields.io/badge/-View_Work-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://portfolio-tawny-five-34.vercel.app)
@@ -19,7 +25,6 @@
 <br>
 
 <div align="center">
-<img width="100%" height="1" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 <img src="https://skillicons.dev/icons?i=angular,ts,nestjs,nodejs,sass,postgres,docker,githubactions,git&theme=dark" />
 </div>
 
@@ -39,13 +44,40 @@ I'd rather spend an extra hour getting the architecture right than ship somethin
 
 <br>
 
+### What I'm working on
+
+I build B2B healthcare software full time. The products are public, the code isn't:
+
+- **[MedLink](https://medlink-market.com)** — a B2B marketplace connecting healthcare buyers with vendors. RFQ workflows, order lifecycles, disputes, Paymob payments. NestJS, Angular, PostgreSQL, Redis.
+- **[Neeryo](https://neeryo.medlink-market.com)** — courier and logistics. Waybills, cash settlements, warehouse operations. The least glamorous domain I've worked in and the one where getting the money math right mattered most.
+- **[MedAxis](https://medaxis.medlink-market.com)** — clinic management SaaS with tenant isolation enforced at the database layer via PostgreSQL RLS, because trusting every query to remember the tenant ID is not a plan.
+
+The one public codebase worth reading is [Space Tourism](https://github.com/Hussain-Emad-00/Space-tourism) ([live](https://space-tourism-smoky-pi.vercel.app)) from 2025. Multi-page site, custom page transitions, keyboard accessibility taken more seriously than the project strictly required.
+
+Everything else you'll find under these repos is practice: Frontend Mentor challenges, an Angular fundamentals course. That's what reps looked like before anyone paid me to write code. No plans to hide them.
+
+<br>
+
+### The rest of it
+
+Studying Commerce at Alson Higher Institute in Cairo — the degree is commerce, the education is mostly commit messages.
+
+<br>
+
 <div align="center">
-  
-<img src="https://github-stats-extended.vercel.app/api?username=Hussain-Emad-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&icon_color=00D4FF&text_color=7B90C4&rank_icon=github&include_all_commits=true&count_private=true" height="205px" width="49%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hussain-Emad-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&text_color=7B90C4&langs_count=6" height="205px" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hussain-Emad-00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=1E90FF&icon_color=00D4FF&text_color=7B90C4&rank_icon=github&include_all_commits=true" height="205px" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussain-Emad-00&theme=tokyo-night&hide_border=true&bg_color=0A0F1E&color=7B90C4&line=1E90FF&point=00D4FF&area=true&area_color=1E90FF" height="350px" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Hussain-Emad-00&hide_border=true&background=0A0F1E&stroke=1E90FF&ring=1E90FF&fire=00D4FF&currStreakNum=7B90C4&sideNums=7B90C4&dates=7B90C4" height="205px" width="49%" />
+
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hussain-Emad-00/Hussain-Emad-00/output/github-contribution-grid-snake-dark.svg?cache_buster=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hussain-Emad-00/Hussain-Emad-00/output/github-contribution-grid-snake.svg?cache_buster=1" />
+  <img alt="Snake animation eating the contribution grid" src="https://raw.githubusercontent.com/Hussain-Emad-00/Hussain-Emad-00/output/github-contribution-grid-snake.svg?cache_buster=1" width="100%" />
+</picture>
 
 </div>
 
